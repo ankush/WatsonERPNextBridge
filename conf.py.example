@@ -1,0 +1,9 @@
+api_key = "blabla"
+api_secret = "blabla"
+base_url = "http://develop:8000"
+
+company = "Unico Plastics"
+
+project_map = {"Jake": "PROJ-0001", "John": "PROJ-0002", "Jane": "PROJ-0003"}
+employee = "EMP-00001"
+activity_map = {}
